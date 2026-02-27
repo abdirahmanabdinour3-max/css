@@ -1,0 +1,16 @@
+h1 {
+    color: green;
+}
+
+body {
+    background-color: #000;
+    background-image: url(OIP.jpg);
+    background-repeat: no-repeat;
+    /* background-position: center center; */
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color: white;
+}
