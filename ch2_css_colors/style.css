@@ -1,0 +1,15 @@
+h1 {
+    /* color : red */
+    color : rgb(125, 125, 125);
+    /* color : #FF00FF; */
+    /* color: hsl(0, 100%, 50%); */
+
+}
+
+
+div {
+    background-color: rgba(0,0,255,0.1);
+    height: 200px;
+    width: 200px;
+    /* opacity: 80%; */
+}
